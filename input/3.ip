@@ -1,0 +1,37 @@
+22
+A B C D E F G H I J K L M N O P Q R S T U V
+1 A B 3
+1 A C 5
+1 B D 7
+1 B E 4
+1 C F 9
+1 C G 6
+1 D H 2
+1 E I 8
+1 F J 12
+1 G K 4
+1 H L 10
+1 I M 3
+1 J N 6
+1 K O 11
+1 L P 2
+1 M Q 8
+1 N R 5
+1 O S 7
+1 P T 10
+1 Q U 4
+1 R V 6
+1 A M 8
+1 D U 5
+1 C T 13
+1 J V 9
+1 K R 11
+1 E S 10
+1 F O 6
+1 L T 8
+1 G Q 12
+1 H U 7
+1 B P 15
+-1
+A T
+S

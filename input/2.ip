@@ -1,0 +1,44 @@
+31
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AA AB AC AD AE
+1 A B 2
+1 A C 3
+1 B D 6
+1 B E 4
+1 C F 5
+1 C G 7
+1 D H 8
+1 E I 3
+1 F J 9
+1 G K 2
+1 H L 12
+1 I M 7
+1 J N 6
+1 K O 4
+1 L P 11
+1 M Q 3
+1 N R 8
+1 O S 10
+1 P T 5
+1 Q U 9
+1 R V 4
+1 S W 7
+1 T X 13
+1 U Y 5
+1 V Z 10
+1 W AA 8
+1 X AB 3
+1 Y AC 9
+1 Z AD 7
+1 AA AE 4
+1 AB L 6
+1 AD F 8
+1 G AE 11
+1 B Q 10
+1 N P 14
+1 C Z 12
+1 A AA 9
+1 K X 3
+1 J AD 4
+-1
+M AE
+V
